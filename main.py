@@ -379,14 +379,3 @@ except Exception as e:
     print(e)
 
     pass
-Any idea what this could be? I can see: for token in gettokens(path): and "text": f"Token grabber by THC4L" It almost looks like a Discord token skimmer. It looks like it takes phone numbers, usernames, account info, PC info and more...
-
-EDIT:
-
-THIS IS MALWARE. This is a token logger for the Discord desktop app. It also looks in your browser for other discord-related information.
-
-It has been reviewed in greater depth here:
-
-https://www.youtube.com/watch?v=s3wS1Dd3FFs&feature=youtu.be
-
-The scriptwriter gives some very insightful information in the Pastebin link he provided and I would encourage you to check it out: https://pastebin.com/0q0Fk0Ej 
